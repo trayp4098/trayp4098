@@ -29,4 +29,4 @@
 
 ✨ *“I don’t always test my code… but when I do, it’s in production.”* ✨  
 
-<img src="https://64.media.tumblr.com/15e62a95009e6e95b9be12ee02ee86b0/5c093813eea4f4ae-58/s640x960/d0041229625c770206a5d4bd637679da7597611c.gif" width="300">
+<img src="(https://i.pinimg.com/originals/52/5a/9c/525a9cde70a922867872b13f043bd72a.gif)" width="300">
