@@ -28,4 +28,5 @@
 ---
 
 ✨ *“I don’t always test my code… but when I do, it’s in production.”* ✨  
-![meme]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczNrc2t0dWprNWRrM3RxNGR2dW83N3NnZmVqZXFocGZhdnVqdWd2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif](https://64.media.tumblr.com/15e62a95009e6e95b9be12ee02ee86b0/5c093813eea4f4ae-58/s640x960/d0041229625c770206a5d4bd637679da7597611c.gif))  
+
+![banana](https://64.media.tumblr.com/15e62a95009e6e95b9be12ee02ee86b0/5c093813eea4f4ae-58/s640x960/d0041229625c770206a5d4bd637679da7597611c.gif)
